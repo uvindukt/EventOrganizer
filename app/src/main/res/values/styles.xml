@@ -1,0 +1,69 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+
+    <style name="AlarmTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/googlesansmedium</item>
+        <item name="android:navigationBarColor">@color/colorTab1Text</item>
+        <item name="windowActionBar">true</item>
+        <item name="colorPrimary">@color/colorTab1</item>
+        <item name="colorPrimaryDark">@color/colorTab1Text</item>
+        <item name="colorAccent">@color/colorTab1Text</item>
+    </style>
+    
+    <style name="NoteTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/googlesansmedium</item>
+        <item name="windowActionBar">true</item>
+        <item name="colorPrimary">@color/colorTab2</item>
+        <item name="android:navigationBarColor">@color/colorTab2Text</item>
+        <item name="colorPrimaryDark">@color/colorTab2Text</item>
+        <item name="colorAccent">@color/colorTab2Text</item>
+    </style>
+
+    <style name="ReminderTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/googlesansmedium</item>
+        <item name="android:navigationBarColor">@color/colorTab3Text</item>
+        <item name="windowActionBar">true</item>
+        <item name="colorPrimary">@color/colorTab3</item>
+        <item name="colorPrimaryDark">@color/colorTab3Text</item>
+        <item name="colorAccent">@color/colorTab3Text</item>
+    </style>
+
+    <style name="EventTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/googlesansmedium</item>
+        <item name="android:navigationBarColor">@color/colorTab4Text</item>
+        <item name="windowActionBar">true</item>
+        <item name="colorPrimary">@color/colorTab4</item>
+        <item name="colorPrimaryDark">@color/colorTab4Text</item>
+        <item name="colorAccent">@color/colorTab4Text</item>
+    </style>
+
+    <style name="Regular">
+        <item name="android:fontFamily">@font/googlesansregular</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Medium">
+        <item name="android:fontFamily">@font/googlesansmedium</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

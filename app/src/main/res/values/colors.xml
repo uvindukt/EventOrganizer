@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/holo_orange_light</color>
+    <color name="colorPrimaryDark">@android:color/holo_orange_dark</color>
+    <color name="colorAccent">@android:color/holo_orange_dark</color>
+
+    <color name="colorTab1">@android:color/holo_orange_light</color>
+    <color name="colorTab2">@android:color/holo_red_light</color>
+    <color name="colorTab3">@android:color/holo_blue_light</color>
+    <color name="colorTab4">@android:color/holo_green_light</color>
+
+    <color name="colorTab1Text">@android:color/holo_orange_dark</color>
+    <color name="colorTab2Text">@android:color/holo_red_dark</color>
+    <color name="colorTab3Text">@android:color/holo_blue_dark</color>
+    <color name="colorTab4Text">@android:color/holo_green_dark</color>
+
+    <color name="gray">@android:color/darker_gray</color>
+</resources>

@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Event Organizer</string>
+    <string name="tab1">Alarms</string>
+    <string name="tab2">Notes</string>
+    <string name="tab3">Reminders</string>
+    <string name="tab4">Events</string>
+
+    <string name="hello">Hello : </string>
+    <string name="note_title">Note Title</string>
+    <string name="note_content">Note Content</string>
+
+    <string-array name="alarms">
+        <item>9:45 PM</item>
+        <item>7:30 AM</item>
+        <item>2:17 PM</item>
+        <item>3:56 AM</item>
+    </string-array>
+
+    <string-array name="note_titles">
+        <item>Router Protocols</item>
+        <item>IP Classes</item>
+        <item>Ethernet Cables</item>
+    </string-array>
+
+    <string-array name="note_contents">
+        <item>RIP, EIGRP, Static</item>
+        <item>A : 0 — 127, B : 128 — 192, C : 192 — 224, D : 224 — 240, E : 240 — 255</item>
+        <item>An Ethernet cable is one of the most common forms of network cable used on wired networks. Ethernet cables connect devices within a local area network, like PCs, routers, and switches.
+Given that these are physical cables, they do have their limitations, both in the distance that they can stretch and still carry proper signals, and their durability. These limits are one reason there are different types of Ethernet cables optimized to perform certain tasks in particular situations.</item>
+    </string-array>
+
+    <string-array name="reminders">
+        <item>Send emails</item>
+        <item>Water the plants</item>
+        <item>Take the car to service</item>
+        <item>Take the dog to vet</item>
+    </string-array>
+
+    <string-array name="reminder_dates">
+        <item>2019 / 02 / 13</item>
+        <item>2018 / 11 / 25</item>
+        <item>2018 / 09 / 01</item>
+        <item>2018 / 10 / 07</item>
+    </string-array>
+
+    <string-array name="reminder_times">
+        <item>9:45 PM</item>
+        <item>7:30 AM</item>
+        <item>2:17 PM</item>
+        <item>3:56 AM</item>
+    </string-array>
+
+    <string-array name="events">
+        <item>Monday Morning Lecture</item>
+        <item>Monday Afternoon Lecture</item>
+    </string-array>
+
+    <string-array name="event_start_dates">
+        <item>2019 / 02 / 13</item>
+        <item>2018 / 11 / 25</item>
+    </string-array>
+
+    <string-array name="event_end_dates">
+        <item>2019 / 02 / 13</item>
+        <item>2018 / 11 / 25</item>
+    </string-array>
+
+    <string-array name="event_start_time">
+        <item>9:45 PM</item>
+        <item>7:30 AM</item>
+    </string-array>
+
+    <string-array name="event_end_time">
+        <item>9:45 PM</item>
+        <item>7:30 AM</item>
+    </string-array>
+</resources>
